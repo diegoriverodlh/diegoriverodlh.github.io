@@ -75629,3 +75629,1346 @@
 2026-05-12 16:40:49 | Disconnecting from 127.0.0.1:7495, 89.2 kB sent in 1260 messages, 117 MB received in 9876 messages, session time 1.55 ks.
 2026-05-12 16:40:49 | Disconnecting
 2026-05-12 16:40:49 | Disconnected.
+2026-05-12 16:48:06 | Connecting to 127.0.0.1:7495 with clientId 2...
+2026-05-12 16:48:06 | Connected
+2026-05-12 16:48:06 | Logged on to server version 176
+2026-05-12 16:48:06 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm.nj
+2026-05-12 16:48:06 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usopt.nj
+2026-05-12 16:48:06 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:cashfarm
+2026-05-12 16:48:06 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm
+2026-05-12 16:48:06 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:euhmds
+2026-05-12 16:48:06 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:cashhmds
+2026-05-12 16:48:06 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:fundfarm
+2026-05-12 16:48:06 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:ushmds
+2026-05-12 16:48:06 | Warning 2158, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" funciona correctamente:secdefil
+2026-05-12 16:48:06 | API connection ready
+2026-05-12 16:48:06 | position: Position(account='DUP994275', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=61001.0, avgCost=1.3713649618833734)
+2026-05-12 16:48:06 | position: Position(account='DUP994275', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=0.0, avgCost=0.0)
+2026-05-12 16:48:06 | position: Position(account='DUP994275', contract=Forex('EURCAD', conId=15016068, localSymbol='EUR.CAD', tradingClass='EUR.CAD'), position=0.0, avgCost=0.0)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a02948a.01.01', time=datetime.datetime(2026, 5, 12, 13, 45, 7, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=61010.0, price=1.37168, permId=1972163576, clientId=32, orderId=8338, liquidation=0, cumQty=61010.0, avgPrice=1.37168, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029531.01.01', time=datetime.datetime(2026, 5, 12, 13, 48, 39, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71312.0, price=1.17322, permId=1972163577, clientId=32, orderId=8508, liquidation=0, cumQty=71312.0, avgPrice=1.17322, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029543.01.01', time=datetime.datetime(2026, 5, 12, 13, 49, 37, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71326.0, price=1.17302, permId=1972163578, clientId=32, orderId=8555, liquidation=0, cumQty=71326.0, avgPrice=1.17302, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a02955c.01.01', time=datetime.datetime(2026, 5, 12, 13, 50, 13, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=142638.0, price=1.17287, permId=1972163579, clientId=32, orderId=8584, liquidation=0, cumQty=142638.0, avgPrice=1.17287, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a02958f.01.01', time=datetime.datetime(2026, 5, 12, 13, 53, 40, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=60996.0, price=1.37145, permId=1972163581, clientId=32, orderId=8787, liquidation=0, cumQty=60996.0, avgPrice=1.37145, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029591.01.01', time=datetime.datetime(2026, 5, 12, 13, 54, 14, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=122006.0, price=1.37141, permId=1972163582, clientId=32, orderId=8816, liquidation=0, cumQty=122006.0, avgPrice=1.37141, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029593.01.01', time=datetime.datetime(2026, 5, 12, 13, 54, 30, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71309.0, price=1.17306, permId=1972163583, clientId=32, orderId=8833, liquidation=0, cumQty=71309.0, avgPrice=1.17306, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a0295a7.01.01', time=datetime.datetime(2026, 5, 12, 13, 55, 13, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52005.0, price=1.60844, permId=1972163584, clientId=32, orderId=8877, liquidation=0, cumQty=52005.0, avgPrice=1.60844, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a0295c2.01.01', time=datetime.datetime(2026, 5, 12, 13, 57, 16, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71324.0, price=1.17275, permId=1972163585, clientId=32, orderId=9000, liquidation=0, cumQty=71324.0, avgPrice=1.17275, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a0295dc.01.01', time=datetime.datetime(2026, 5, 12, 13, 57, 56, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52011.0, price=1.60829, permId=1972163586, clientId=32, orderId=9035, liquidation=0, cumQty=52011.0, avgPrice=1.60829, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a0295df.01.01', time=datetime.datetime(2026, 5, 12, 13, 58, 22, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=142633.0, price=1.17293, permId=1972163587, clientId=32, orderId=9059, liquidation=0, cumQty=142633.0, avgPrice=1.17293, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a0296a6.01.01', time=datetime.datetime(2026, 5, 12, 14, 5, 1, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=61001.0, price=1.37132, permId=1972163599, clientId=2, orderId=2995, liquidation=0, cumQty=61001.0, avgPrice=1.37132, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029957.01.01', time=datetime.datetime(2026, 5, 12, 14, 31, 24, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52010.0, price=1.60824, permId=1972163637, clientId=32, orderId=9616, liquidation=0, cumQty=52010.0, avgPrice=1.60824, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | execDetails Execution(execId='0000e215.6a029974.01.01', time=datetime.datetime(2026, 5, 12, 14, 32, 8, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=156026.0, price=1.60834, permId=1972163638, clientId=32, orderId=9654, liquidation=0, cumQty=156026.0, avgPrice=1.60834, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a02948a.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029531.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029543.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a02955c.01.01', commission=3.345917, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a02958f.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029591.01.01', commission=2.44656, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029593.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a0295a7.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a0295c2.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a0295dc.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a0295df.01.01', commission=3.34597, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a0296a6.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029957.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | commissionReport: CommissionReport(execId='0000e215.6a029974.01.01', commission=3.669292, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:06 | Synchronization complete
+2026-05-12 16:48:27 | Modo de trabajo: IB - Datos cargados con éxito
+2026-05-12 16:48:29 | Disconnecting from 127.0.0.1:7495, 283 B sent in 11 messages, 946 kB received in 548 messages, session time 23.7 s.
+2026-05-12 16:48:29 | Disconnecting
+2026-05-12 16:48:29 | Disconnected.
+2026-05-12 16:48:30 | Connecting to 127.0.0.1:7495 with clientId 32...
+2026-05-12 16:48:30 | Connected
+2026-05-12 16:48:30 | Logged on to server version 176
+2026-05-12 16:48:30 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm.nj
+2026-05-12 16:48:30 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usopt.nj
+2026-05-12 16:48:30 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:cashfarm
+2026-05-12 16:48:30 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm
+2026-05-12 16:48:30 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:euhmds
+2026-05-12 16:48:30 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:cashhmds
+2026-05-12 16:48:30 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:fundfarm
+2026-05-12 16:48:30 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:ushmds
+2026-05-12 16:48:30 | Warning 2158, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" funciona correctamente:secdefil
+2026-05-12 16:48:30 | API connection ready
+2026-05-12 16:48:30 | position: Position(account='DUP994275', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=61001.0, avgCost=1.3713649618833734)
+2026-05-12 16:48:30 | position: Position(account='DUP994275', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=0.0, avgCost=0.0)
+2026-05-12 16:48:30 | position: Position(account='DUP994275', contract=Forex('EURCAD', conId=15016068, localSymbol='EUR.CAD', tradingClass='EUR.CAD'), position=0.0, avgCost=0.0)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a02948a.01.01', time=datetime.datetime(2026, 5, 12, 13, 45, 7, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=61010.0, price=1.37168, permId=1972163576, clientId=32, orderId=8338, liquidation=0, cumQty=61010.0, avgPrice=1.37168, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029531.01.01', time=datetime.datetime(2026, 5, 12, 13, 48, 39, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71312.0, price=1.17322, permId=1972163577, clientId=32, orderId=8508, liquidation=0, cumQty=71312.0, avgPrice=1.17322, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029543.01.01', time=datetime.datetime(2026, 5, 12, 13, 49, 37, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71326.0, price=1.17302, permId=1972163578, clientId=32, orderId=8555, liquidation=0, cumQty=71326.0, avgPrice=1.17302, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a02955c.01.01', time=datetime.datetime(2026, 5, 12, 13, 50, 13, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=142638.0, price=1.17287, permId=1972163579, clientId=32, orderId=8584, liquidation=0, cumQty=142638.0, avgPrice=1.17287, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a02958f.01.01', time=datetime.datetime(2026, 5, 12, 13, 53, 40, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=60996.0, price=1.37145, permId=1972163581, clientId=32, orderId=8787, liquidation=0, cumQty=60996.0, avgPrice=1.37145, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029591.01.01', time=datetime.datetime(2026, 5, 12, 13, 54, 14, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=122006.0, price=1.37141, permId=1972163582, clientId=32, orderId=8816, liquidation=0, cumQty=122006.0, avgPrice=1.37141, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029593.01.01', time=datetime.datetime(2026, 5, 12, 13, 54, 30, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71309.0, price=1.17306, permId=1972163583, clientId=32, orderId=8833, liquidation=0, cumQty=71309.0, avgPrice=1.17306, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a0295a7.01.01', time=datetime.datetime(2026, 5, 12, 13, 55, 13, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52005.0, price=1.60844, permId=1972163584, clientId=32, orderId=8877, liquidation=0, cumQty=52005.0, avgPrice=1.60844, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a0295c2.01.01', time=datetime.datetime(2026, 5, 12, 13, 57, 16, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=71324.0, price=1.17275, permId=1972163585, clientId=32, orderId=9000, liquidation=0, cumQty=71324.0, avgPrice=1.17275, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a0295dc.01.01', time=datetime.datetime(2026, 5, 12, 13, 57, 56, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52011.0, price=1.60829, permId=1972163586, clientId=32, orderId=9035, liquidation=0, cumQty=52011.0, avgPrice=1.60829, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a0295df.01.01', time=datetime.datetime(2026, 5, 12, 13, 58, 22, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=142633.0, price=1.17293, permId=1972163587, clientId=32, orderId=9059, liquidation=0, cumQty=142633.0, avgPrice=1.17293, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a0296a6.01.01', time=datetime.datetime(2026, 5, 12, 14, 5, 1, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=61001.0, price=1.37132, permId=1972163599, clientId=2, orderId=2995, liquidation=0, cumQty=61001.0, avgPrice=1.37132, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029957.01.01', time=datetime.datetime(2026, 5, 12, 14, 31, 24, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='BOT', shares=52010.0, price=1.60824, permId=1972163637, clientId=32, orderId=9616, liquidation=0, cumQty=52010.0, avgPrice=1.60824, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | execDetails Execution(execId='0000e215.6a029974.01.01', time=datetime.datetime(2026, 5, 12, 14, 32, 8, tzinfo=datetime.timezone.utc), acctNumber='DUP994275', exchange='IDEALPRO', side='SLD', shares=156026.0, price=1.60834, permId=1972163638, clientId=32, orderId=9654, liquidation=0, cumQty=156026.0, avgPrice=1.60834, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a02948a.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029531.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029543.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a02955c.01.01', commission=3.345917, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a02958f.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029591.01.01', commission=2.44656, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029593.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a0295a7.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a0295c2.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a0295dc.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a0295df.01.01', commission=3.34597, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a0296a6.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029957.01.01', commission=2.0, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | commissionReport: CommissionReport(execId='0000e215.6a029974.01.01', commission=3.669292, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2026-05-12 16:48:30 | Synchronization complete
+2026-05-12 16:49:15 | ✅ USDCAD: Datos cargados con éxito
+2026-05-12 16:49:15 | 📊 USDCAD inicializado con Rango: 1.36719 - 1.37190
+2026-05-12 16:50:09 | ✅ EURCAD: Datos cargados con éxito
+2026-05-12 16:50:09 | 📊 EURCAD inicializado con Rango: 1.60809 - 1.61350
+2026-05-12 16:50:39 | ✅ EURUSD: Datos cargados con éxito
+2026-05-12 16:50:39 | 📊 EURUSD inicializado con Rango: 1.17271 - 1.17877
+2026-05-12 16:50:39 | 🚀 Todos los contratos listos. Iniciando bucle multiactivo...
+2026-05-12 16:50:40 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:42 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:50:42 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:42 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:43 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:43 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:43 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:43 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:43 | 📊 USDCAD: Precio actual: 1.37148
+2026-05-12 16:50:43 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:50:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:43 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:45 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:50:45 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:45 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:46 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:46 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:46 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:46 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:46 | 📊 EURCAD: Precio actual: 1.60850
+2026-05-12 16:50:46 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:50:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:46 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:48 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:50:48 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:48 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:48 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:48 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:48 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:48 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:48 | 📊 EURUSD: Precio actual: 1.17288
+2026-05-12 16:50:48 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:50:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:49 | Guardando imagen
+2026-05-12 16:50:50 | 💾 CSVs guardados: 3 registros totales (3 símbolos)
+2026-05-12 16:50:51 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:52 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:50:52 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:52 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:52 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:52 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:52 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:52 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:53 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:50:53 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:50:53 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:53 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:53 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:54 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:50:54 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:54 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:54 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:54 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:54 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:54 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:54 | 📊 EURCAD: Precio actual: 1.60855
+2026-05-12 16:50:54 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:50:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:54 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:56 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:50:56 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:56 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:56 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:56 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:56 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:56 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:56 | 📊 EURUSD: Precio actual: 1.17286
+2026-05-12 16:50:56 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:50:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:56 | Guardando imagen
+2026-05-12 16:50:57 | 💾 CSVs guardados: 6 registros totales (3 símbolos)
+2026-05-12 16:50:57 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:50:58 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:50:58 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:50:58 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:50:59 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:50:59 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:50:59 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:50:59 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:50:59 | 📊 USDCAD: Precio actual: 1.37160
+2026-05-12 16:50:59 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:50:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:50:59 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:00 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:00 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:00 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:01 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:01 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:01 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:01 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:01 | 📊 EURCAD: Precio actual: 1.60855
+2026-05-12 16:51:01 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:01 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:01 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:01 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:02 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:02 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:02 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:03 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:03 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:03 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:03 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:03 | 📊 EURUSD: Precio actual: 1.17281
+2026-05-12 16:51:03 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:04 | Guardando imagen
+2026-05-12 16:51:04 | 💾 CSVs guardados: 9 registros totales (3 símbolos)
+2026-05-12 16:51:04 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:06 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:06 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:06 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:06 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:06 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:06 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:06 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:06 | 📊 USDCAD: Precio actual: 1.37163
+2026-05-12 16:51:06 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:06 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:06 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:06 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:08 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:08 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:08 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:08 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:08 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:08 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:08 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:08 | 📊 EURCAD: Precio actual: 1.60860
+2026-05-12 16:51:08 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:08 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:09 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:09 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:09 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:10 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:10 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:10 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:10 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:10 | 📊 EURUSD: Precio actual: 1.17280
+2026-05-12 16:51:10 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:10 | Guardando imagen
+2026-05-12 16:51:11 | 💾 CSVs guardados: 12 registros totales (3 símbolos)
+2026-05-12 16:51:11 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:12 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:12 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:12 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:13 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:13 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:13 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:13 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:13 | 📊 USDCAD: Precio actual: 1.37163
+2026-05-12 16:51:13 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:13 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:13 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:13 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:14 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:14 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:14 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:15 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:15 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:15 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:15 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:15 | 📊 EURCAD: Precio actual: 1.60870
+2026-05-12 16:51:15 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:15 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:17 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:17 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:17 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:17 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:17 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:17 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:17 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:18 | 📊 EURUSD: Precio actual: 1.17280
+2026-05-12 16:51:18 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:18 | Guardando imagen
+2026-05-12 16:51:18 | 💾 CSVs guardados: 15 registros totales (3 símbolos)
+2026-05-12 16:51:19 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:20 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:20 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:20 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:21 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:21 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:21 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:21 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:21 | 📊 USDCAD: Precio actual: 1.37170
+2026-05-12 16:51:21 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:21 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:21 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:21 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:23 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:23 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:23 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:23 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:23 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:23 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:23 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:23 | 📊 EURCAD: Precio actual: 1.60880
+2026-05-12 16:51:23 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:23 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:23 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:23 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:25 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:25 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:25 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:26 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:26 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:26 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:26 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:26 | 📊 EURUSD: Precio actual: 1.17285
+2026-05-12 16:51:26 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:26 | Guardando imagen
+2026-05-12 16:51:27 | 💾 CSVs guardados: 18 registros totales (3 símbolos)
+2026-05-12 16:51:27 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:29 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:29 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:29 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:29 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:29 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:29 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:29 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:29 | 📊 USDCAD: Precio actual: 1.37175
+2026-05-12 16:51:29 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:29 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:29 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:29 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:31 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:31 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:31 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:32 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:32 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:32 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:32 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:32 | 📊 EURCAD: Precio actual: 1.60880
+2026-05-12 16:51:32 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:32 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:33 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:33 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:33 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:34 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:34 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:34 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:34 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:34 | 📊 EURUSD: Precio actual: 1.17286
+2026-05-12 16:51:34 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:34 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:34 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:34 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:34 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:34 | Guardando imagen
+2026-05-12 16:51:35 | 💾 CSVs guardados: 21 registros totales (3 símbolos)
+2026-05-12 16:51:35 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:37 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:37 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:37 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:38 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:38 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:38 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:38 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:38 | 📊 USDCAD: Precio actual: 1.37175
+2026-05-12 16:51:38 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:38 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:38 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:38 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:40 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:40 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:40 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:40 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:40 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:40 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:40 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:40 | 📊 EURCAD: Precio actual: 1.60880
+2026-05-12 16:51:40 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:40 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:42 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:42 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:42 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:42 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:42 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:42 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:42 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:43 | 📊 EURUSD: Precio actual: 1.17294
+2026-05-12 16:51:43 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:43 | Guardando imagen
+2026-05-12 16:51:43 | 💾 CSVs guardados: 24 registros totales (3 símbolos)
+2026-05-12 16:51:44 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:45 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:45 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:45 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:46 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:46 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:46 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:46 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:46 | 📊 USDCAD: Precio actual: 1.37165
+2026-05-12 16:51:46 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:46 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:48 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:48 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:48 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:48 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:48 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:48 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:48 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:48 | 📊 EURCAD: Precio actual: 1.60870
+2026-05-12 16:51:48 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:49 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:49 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:49 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:50 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:50 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:50 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:50 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:50 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:50 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:50 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:50 | 📊 EURUSD: Precio actual: 1.17290
+2026-05-12 16:51:50 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:50 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:50 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:50 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:50 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:51 | Guardando imagen
+2026-05-12 16:51:51 | 💾 CSVs guardados: 27 registros totales (3 símbolos)
+2026-05-12 16:51:52 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:53 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:51:53 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:53 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:53 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:53 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:53 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:53 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:54 | 📊 USDCAD: Precio actual: 1.37163
+2026-05-12 16:51:54 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:51:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:54 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:55 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:51:55 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:55 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:56 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:56 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:56 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:56 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:56 | 📊 EURCAD: Precio actual: 1.60870
+2026-05-12 16:51:56 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:51:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:56 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:51:58 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:51:58 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:51:58 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:51:59 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:51:59 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:51:59 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:51:59 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:51:59 | 📊 EURUSD: Precio actual: 1.17294
+2026-05-12 16:51:59 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:51:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:59 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:51:59 | Guardando imagen
+2026-05-12 16:52:00 | 💾 CSVs guardados: 30 registros totales (3 símbolos)
+2026-05-12 16:52:00 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:02 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:02 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:02 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:03 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:03 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:03 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:03 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:03 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:52:03 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:03 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:03 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:05 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:05 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:05 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:05 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:05 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:05 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:05 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:05 | 📊 EURCAD: Precio actual: 1.60880
+2026-05-12 16:52:05 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:05 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:05 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:05 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:07 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:07 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:07 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:08 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:08 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:08 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:08 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:08 | 📊 EURUSD: Precio actual: 1.17297
+2026-05-12 16:52:08 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:08 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:08 | Guardando imagen
+2026-05-12 16:52:09 | 💾 CSVs guardados: 33 registros totales (3 símbolos)
+2026-05-12 16:52:09 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:10 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:10 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:10 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:11 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:11 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:11 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:11 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:11 | 📊 USDCAD: Precio actual: 1.37157
+2026-05-12 16:52:11 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:11 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:13 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:13 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:13 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:13 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:13 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:13 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:13 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:13 | 📊 EURCAD: Precio actual: 1.60880
+2026-05-12 16:52:13 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:13 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:13 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:13 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:14 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:14 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:14 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:15 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:15 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:15 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:15 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:15 | 📊 EURUSD: Precio actual: 1.17305
+2026-05-12 16:52:15 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:16 | Guardando imagen
+2026-05-12 16:52:16 | 💾 CSVs guardados: 36 registros totales (3 símbolos)
+2026-05-12 16:52:17 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:18 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:18 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:18 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:18 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:18 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:18 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:18 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:18 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:52:18 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:18 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:18 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:20 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:20 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:20 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:20 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:20 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:20 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:20 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:21 | 📊 EURCAD: Precio actual: 1.60885
+2026-05-12 16:52:21 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:21 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:21 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:21 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:22 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:22 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:22 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:22 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:22 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:22 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:22 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:22 | 📊 EURUSD: Precio actual: 1.17307
+2026-05-12 16:52:22 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:23 | Guardando imagen
+2026-05-12 16:52:23 | 💾 CSVs guardados: 39 registros totales (3 símbolos)
+2026-05-12 16:52:24 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:25 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:25 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:25 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:25 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:25 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:25 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:25 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:26 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:52:26 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:26 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:27 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:27 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:27 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:28 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:28 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:28 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:28 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:28 | 📊 EURCAD: Precio actual: 1.60900
+2026-05-12 16:52:28 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:28 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:28 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:28 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:29 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:29 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:29 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:30 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:30 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:30 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:30 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:30 | 📊 EURUSD: Precio actual: 1.17317
+2026-05-12 16:52:30 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:30 | Guardando imagen
+2026-05-12 16:52:31 | 💾 CSVs guardados: 42 registros totales (3 símbolos)
+2026-05-12 16:52:31 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:32 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:33 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:33 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:33 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:33 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:33 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:33 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:33 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:52:33 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:33 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:33 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:33 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:34 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:34 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:34 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:35 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:35 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:35 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:35 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:35 | 📊 EURCAD: Precio actual: 1.60900
+2026-05-12 16:52:35 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:35 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:35 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:35 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:36 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:36 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:36 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:37 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:37 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:37 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:37 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:37 | 📊 EURUSD: Precio actual: 1.17315
+2026-05-12 16:52:37 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:37 | Guardando imagen
+2026-05-12 16:52:38 | 💾 CSVs guardados: 45 registros totales (3 símbolos)
+2026-05-12 16:52:38 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:40 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:40 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:40 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:40 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:40 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:40 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:40 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:40 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:52:40 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:40 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:42 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:42 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:42 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:43 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:43 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:43 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:43 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:43 | 📊 EURCAD: Precio actual: 1.60900
+2026-05-12 16:52:43 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:43 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:43 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:44 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:44 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:44 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:45 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:45 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:45 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:45 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:45 | 📊 EURUSD: Precio actual: 1.17320
+2026-05-12 16:52:45 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:45 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:45 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:45 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:45 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:45 | Guardando imagen
+2026-05-12 16:52:46 | 💾 CSVs guardados: 48 registros totales (3 símbolos)
+2026-05-12 16:52:47 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:48 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:48 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:48 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:49 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:49 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:49 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:49 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:49 | 📊 USDCAD: Precio actual: 1.37153
+2026-05-12 16:52:49 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:49 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:49 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:49 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:51 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:52:51 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:51 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:51 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:51 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:51 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:51 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:51 | 📊 EURCAD: Precio actual: 1.60905
+2026-05-12 16:52:51 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:52:51 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:51 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:51 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:53 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:52:53 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:53 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:54 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:54 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:54 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:54 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:54 | 📊 EURUSD: Precio actual: 1.17325
+2026-05-12 16:52:54 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:52:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:54 | Guardando imagen
+2026-05-12 16:52:55 | 💾 CSVs guardados: 51 registros totales (3 símbolos)
+2026-05-12 16:52:55 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:52:57 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:52:57 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:52:57 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:52:58 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:52:58 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:52:58 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:52:58 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:52:58 | 📊 USDCAD: Precio actual: 1.37148
+2026-05-12 16:52:58 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:52:58 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:58 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:52:58 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:00 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:00 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:00 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:01 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:01 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:01 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:01 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:01 | 📊 EURCAD: Precio actual: 1.60900
+2026-05-12 16:53:01 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:01 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:01 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:01 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:03 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:03 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:03 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:04 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:04 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:04 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:04 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:04 | 📊 EURUSD: Precio actual: 1.17325
+2026-05-12 16:53:04 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:04 | Guardando imagen
+2026-05-12 16:53:05 | 💾 CSVs guardados: 54 registros totales (3 símbolos)
+2026-05-12 16:53:05 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:07 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:07 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:07 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:07 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:07 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:07 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:07 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:07 | 📊 USDCAD: Precio actual: 1.37149
+2026-05-12 16:53:07 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:07 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:07 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:07 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:09 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:09 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:09 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:10 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:10 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:10 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:10 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:10 | 📊 EURCAD: Precio actual: 1.60915
+2026-05-12 16:53:10 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:10 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:10 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:11 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:11 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:11 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:12 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:12 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:12 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:12 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:12 | 📊 EURUSD: Precio actual: 1.17328
+2026-05-12 16:53:12 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:12 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:12 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:12 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:12 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:13 | Guardando imagen
+2026-05-12 16:53:13 | 💾 CSVs guardados: 57 registros totales (3 símbolos)
+2026-05-12 16:53:14 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:15 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:15 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:15 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:16 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:16 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:16 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:16 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:16 | 📊 USDCAD: Precio actual: 1.37153
+2026-05-12 16:53:16 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:16 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:16 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:16 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:18 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:18 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:18 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:19 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:19 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:19 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:19 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:19 | 📊 EURCAD: Precio actual: 1.60915
+2026-05-12 16:53:19 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:19 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:19 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:19 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:21 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:21 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:21 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:22 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:22 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:22 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:22 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:22 | 📊 EURUSD: Precio actual: 1.17333
+2026-05-12 16:53:22 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:22 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:22 | Guardando imagen
+2026-05-12 16:53:23 | 💾 CSVs guardados: 60 registros totales (3 símbolos)
+2026-05-12 16:53:24 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:25 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:25 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:25 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:26 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:26 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:26 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:26 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:26 | 📊 USDCAD: Precio actual: 1.37153
+2026-05-12 16:53:26 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:26 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:26 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:28 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:28 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:28 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:29 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:29 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:29 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:29 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:29 | 📊 EURCAD: Precio actual: 1.60915
+2026-05-12 16:53:29 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:29 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:29 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:29 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:31 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:31 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:31 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:32 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:32 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:32 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:32 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:32 | 📊 EURUSD: Precio actual: 1.17333
+2026-05-12 16:53:32 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:32 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:32 | Guardando imagen
+2026-05-12 16:53:33 | 💾 CSVs guardados: 63 registros totales (3 símbolos)
+2026-05-12 16:53:33 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:35 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:35 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:35 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:35 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:35 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:35 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:35 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:36 | 📊 USDCAD: Precio actual: 1.37145
+2026-05-12 16:53:36 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:36 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:36 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:36 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:37 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:37 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:37 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:38 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:38 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:38 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:38 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:38 | 📊 EURCAD: Precio actual: 1.60910
+2026-05-12 16:53:38 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:38 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:38 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:38 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:39 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:39 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:39 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:40 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:40 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:40 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:40 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:40 | 📊 EURUSD: Precio actual: 1.17335
+2026-05-12 16:53:40 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:40 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:41 | Guardando imagen
+2026-05-12 16:53:41 | 💾 CSVs guardados: 66 registros totales (3 símbolos)
+2026-05-12 16:53:42 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:43 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:43 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:43 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:44 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:44 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:44 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:44 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:44 | 📊 USDCAD: Precio actual: 1.37145
+2026-05-12 16:53:44 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:44 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:44 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:44 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:46 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:46 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:46 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:46 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:46 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:46 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:46 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:46 | 📊 EURCAD: Precio actual: 1.60920
+2026-05-12 16:53:46 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:46 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:46 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:47 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:47 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:47 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:48 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:48 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:48 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:48 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:48 | 📊 EURUSD: Precio actual: 1.17340
+2026-05-12 16:53:48 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:48 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:49 | Guardando imagen
+2026-05-12 16:53:50 | 💾 CSVs guardados: 69 registros totales (3 símbolos)
+2026-05-12 16:53:50 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:51 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:51 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:51 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:52 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:52 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:52 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:52 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:52 | 📊 USDCAD: Precio actual: 1.37145
+2026-05-12 16:53:52 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:53:52 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:52 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:52 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:53 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:53:53 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:53 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:54 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:54 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:54 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:54 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:54 | 📊 EURCAD: Precio actual: 1.60920
+2026-05-12 16:53:54 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:53:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:54 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:54 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:55 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:53:55 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:55 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:53:56 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:53:56 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:53:56 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:53:56 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:53:56 | 📊 EURUSD: Precio actual: 1.17338
+2026-05-12 16:53:56 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:53:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:56 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:53:57 | Guardando imagen
+2026-05-12 16:53:58 | 💾 CSVs guardados: 72 registros totales (3 símbolos)
+2026-05-12 16:53:58 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:53:59 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:53:59 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:53:59 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:00 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:00 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:00 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:00 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:00 | 📊 USDCAD: Precio actual: 1.37148
+2026-05-12 16:54:00 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:54:00 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:00 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:00 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:01 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:54:01 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:01 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:01 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:01 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:01 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:01 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:02 | 📊 EURCAD: Precio actual: 1.60920
+2026-05-12 16:54:02 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:54:02 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:02 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:02 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:03 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:54:03 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:03 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:03 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:03 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:03 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:03 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:04 | 📊 EURUSD: Precio actual: 1.17334
+2026-05-12 16:54:04 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:54:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:04 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:04 | Guardando imagen
+2026-05-12 16:54:05 | 💾 CSVs guardados: 75 registros totales (3 símbolos)
+2026-05-12 16:54:05 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:07 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:54:07 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:07 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:07 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:07 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:07 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:07 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:07 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:54:07 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:54:07 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:07 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:07 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:08 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:54:08 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:08 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:09 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:09 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:09 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:09 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:09 | 📊 EURCAD: Precio actual: 1.60925
+2026-05-12 16:54:09 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:54:09 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:09 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:09 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:11 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:54:11 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:11 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:11 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:11 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:11 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:11 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:11 | 📊 EURUSD: Precio actual: 1.17335
+2026-05-12 16:54:11 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:54:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:11 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:12 | Guardando imagen
+2026-05-12 16:54:13 | 💾 CSVs guardados: 78 registros totales (3 símbolos)
+2026-05-12 16:54:13 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:14 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:54:14 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:14 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:15 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:15 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:15 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:15 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:15 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:54:15 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:54:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:15 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:15 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:17 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:54:17 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:17 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:17 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:17 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:17 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:17 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:17 | 📊 EURCAD: Precio actual: 1.60915
+2026-05-12 16:54:17 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:54:17 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:17 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:17 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:19 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:54:19 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:19 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:19 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:19 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:19 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:19 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:20 | 📊 EURUSD: Precio actual: 1.17334
+2026-05-12 16:54:20 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:54:20 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:20 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:20 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:20 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:20 | Guardando imagen
+2026-05-12 16:54:21 | 💾 CSVs guardados: 81 registros totales (3 símbolos)
+2026-05-12 16:54:22 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:24 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:54:24 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:24 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:25 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:25 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:25 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:25 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:25 | 📊 USDCAD: Precio actual: 1.37155
+2026-05-12 16:54:25 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:54:25 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:25 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:25 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:27 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:54:27 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:27 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:27 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:27 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:27 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:27 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:28 | 📊 EURCAD: Precio actual: 1.60915
+2026-05-12 16:54:28 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:54:28 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:28 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:28 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:29 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:54:29 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:29 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:30 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:30 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:30 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:30 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:30 | 📊 EURUSD: Precio actual: 1.17330
+2026-05-12 16:54:30 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:54:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:30 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:30 | Guardando imagen
+2026-05-12 16:54:31 | 💾 CSVs guardados: 84 registros totales (3 símbolos)
+2026-05-12 16:54:32 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:34 | 📊 Simulación Finalizada: WR: 15.02% | W/L: 4.00
+2026-05-12 16:54:34 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:34 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:35 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:35 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:35 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:35 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:35 | 📊 USDCAD: Precio actual: 1.37157
+2026-05-12 16:54:35 | ⏳ USDCAD: Rango estable (1.36719 - 1.37190) | Kelly Stake: 8.34%
+2026-05-12 16:54:35 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:35 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:35 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:36 | 📊 Simulación Finalizada: WR: 14.23% | W/L: 4.00
+2026-05-12 16:54:36 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:36 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:37 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:37 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:37 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:37 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:37 | 📊 EURCAD: Precio actual: 1.60920
+2026-05-12 16:54:37 | ⏳ EURCAD: Rango estable (1.60809 - 1.61350) | Kelly Stake: 8.34%
+2026-05-12 16:54:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:37 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:37 | 🔬 Generando métricas para Kelly Sintético (3 días de histórico)...
+2026-05-12 16:54:38 | 📊 Simulación Finalizada: WR: 18.97% | W/L: 4.00
+2026-05-12 16:54:38 | ⚠️ Esperanza real negativa. Recalculando con escenario simulado...
+2026-05-12 16:54:38 | 🔄 Kelly real negativo. Calculando escenario de respaldo simulado...
+2026-05-12 16:54:39 | ✨ Escenario simulado creado: WR 35.00% | W/L 40.00
+2026-05-12 16:54:39 | ✨ Nuevo f* tras simulación: 33.37%
+2026-05-12 16:54:39 | 🎯 Kelly Stake Final: 8.34% (Basado en f*: 33.37%)
+2026-05-12 16:54:39 | 💰 Stake de Kelly inicial: 8.34% del capital por operación
+2026-05-12 16:54:39 | 📊 EURUSD: Precio actual: 1.17332
+2026-05-12 16:54:39 | ⏳ EURUSD: Rango estable (1.17271 - 1.17877) | Kelly Stake: 8.34%
+2026-05-12 16:54:39 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:39 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:39 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:39 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-12 16:54:40 | Bot detenido.
+2026-05-12 16:54:40 | ✅ registers\price_records_USDCAD.csv guardado (29 registros)
+2026-05-12 16:54:40 | ✅ registers\price_records_EURCAD.csv guardado (29 registros)
+2026-05-12 16:54:40 | ✅ registers\price_records_EURUSD.csv guardado (29 registros)
+2026-05-12 16:55:25 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:cashhmds
+2026-05-12 18:42:40 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:cashfarm
+2026-05-12 18:42:40 | Warning 2157, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" se ha interrumpido:secdefil
+2026-05-12 18:42:40 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:ushmds
+2026-05-12 18:42:40 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usopt.nj
+2026-05-12 18:42:40 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm.nj
+2026-05-12 18:42:40 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:fundfarm
+2026-05-12 18:42:40 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:euhmds
+2026-05-12 18:42:40 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm
+2026-05-12 18:42:40 | Error 1100, reqId -1: Conectividad entre IB y TWS ha sido perdida
+2026-05-12 18:43:09 | Error 1100, reqId -1: Conectividad entre IB y TWS ha sido perdida
+2026-05-12 18:43:12 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:euhmds
+2026-05-12 18:43:12 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:cashhmds
+2026-05-12 18:43:12 | Warning 2158, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" funciona correctamente:secdefil
+2026-05-12 18:43:13 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm
+2026-05-12 18:43:13 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:fundfarm
+2026-05-12 18:43:13 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:cashfarm
+2026-05-12 18:43:13 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usopt.nj
+2026-05-12 18:43:13 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:ushmds
+2026-05-12 18:43:13 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm.nj
+2026-05-12 18:43:14 | Error 1102, reqId -1: Conectividad entre IB y TWS ha sido restaurada - datos mantenidos: Todos los centros de datos est\u00e1n conectados: usfarm.nj; usopt.nj; cashfarm; usfarm; euhmds; cashhmds; fundfarm; ushmds; secdefil.
+2026-05-13 15:00:23 | Error 1100, reqId -1: Conectividad entre IB y TWS ha sido perdida
+2026-05-13 15:00:24 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:cashfarm
+2026-05-13 15:00:24 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:euhmds
+2026-05-13 15:00:24 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm
+2026-05-13 15:00:24 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:ushmds
+2026-05-13 15:00:24 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:cashhmds
+2026-05-13 15:00:24 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usopt.nj
+2026-05-13 15:00:24 | Warning 2157, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" se ha interrumpido:secdefil
+2026-05-13 15:00:24 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm.nj
+2026-05-13 15:00:24 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:fundfarm
+2026-05-13 15:00:47 | Error 1100, reqId -1: Conectividad entre IB y TWS ha sido perdida
+2026-05-13 15:01:08 | Warning 2108, reqId -1: La conexi\u00f3n al centro de datos est\u00e1 inactiva pero deber\u00eda estar disponible bajo demanda.usfarm.nj
+2026-05-13 15:01:08 | Warning 2108, reqId -1: La conexi\u00f3n al centro de datos est\u00e1 inactiva pero deber\u00eda estar disponible bajo demanda.usopt.nj
+2026-05-13 15:01:09 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:euhmds
+2026-05-13 15:01:09 | Warning 2158, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" funciona correctamente:secdefil
+2026-05-13 15:01:09 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:ushmds
+2026-05-13 15:01:09 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:cashhmds
+2026-05-13 15:01:09 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:fundfarm
+2026-05-13 15:01:09 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm
+2026-05-13 15:01:09 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:cashfarm
+2026-05-13 15:01:10 | Error 1102, reqId -1: Conectividad entre IB y TWS ha sido restaurada - datos mantenidos: Todos los centros de datos est\u00e1n conectados: cashfarm; usfarm; euhmds; cashhmds; fundfarm; ushmds; secdefil.
+2026-05-13 15:01:10 | Error 322, reqId 9926: Error al procesar la solicitud.-'bX' : causa - Maximum number of account summary requests exceeded; desubscribe to previous request first
+2026-05-13 15:01:11 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usopt.nj
+2026-05-13 15:01:15 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfuture
+2026-05-13 15:01:16 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:jfarm
+2026-05-13 15:01:16 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:eufarmnj
+2026-05-13 15:01:17 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:hfarm
+2026-05-13 15:01:29 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm.nj
+2026-05-13 15:27:46 | Error 1100, reqId -1: Conectividad entre IB y TWS ha sido perdida
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm.nj
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:jfarm
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:hfarm
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfuture
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usopt.nj
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:cashfarm
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:eufarmnj
+2026-05-13 15:27:48 | Warning 2157, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" se ha interrumpido:secdefil
+2026-05-13 15:27:48 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:euhmds
+2026-05-13 15:27:48 | Warning 2103, reqId -1: Se ha perdido la conexi\u00f3n al centro de datos:usfarm
+2026-05-13 15:27:48 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:cashhmds
+2026-05-13 15:27:48 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:fundfarm
+2026-05-13 15:27:48 | Warning 2105, reqId -1: Se ha perdido la conexi\u00f3n a la granja de datos HMDS:ushmds
+2026-05-13 15:27:49 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:euhmds
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfuture
+2026-05-13 15:27:49 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:cashhmds
+2026-05-13 15:27:49 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:fundfarm
+2026-05-13 15:27:49 | Warning 2158, reqId -1: La conexi\u00f3n de la granja de datos "sec-def" funciona correctamente:secdefil
+2026-05-13 15:27:49 | Warning 2106, reqId -1: La conexi\u00f3n al centro de datos HMDS funciona correctamente:ushmds
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm.nj
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usopt.nj
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:usfarm
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:eufarmnj
+2026-05-13 15:27:49 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:cashfarm
+2026-05-13 15:27:50 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:jfarm
+2026-05-13 15:27:50 | Warning 2104, reqId -1: La conexi\u00f3n al centro de datos funciona correctamente:hfarm
+2026-05-13 15:27:51 | Error 322, reqId 9926: Error al procesar la solicitud.-'bX' : causa - Maximum number of account summary requests exceeded; desubscribe to previous request first
+2026-05-13 15:27:51 | Error 1102, reqId -1: Conectividad entre IB y TWS ha sido restaurada - datos mantenidos: Todos los centros de datos est\u00e1n conectados: usfarm.nj; hfarm; jfarm; usfuture; usopt.nj; cashfarm; eufarmnj; usfarm; euhmds; cashhmds; fundfarm; ushmds; secdefil.
+2026-05-13 15:27:51 | Error 322, reqId 9927: Error al procesar la solicitud.-'bX' : causa - Maximum number of account summary requests exceeded; desubscribe to previous request first
+2026-05-13 15:28:51 | Peer closed connection.
