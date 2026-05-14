@@ -1,0 +1,120 @@
+2026-05-12 14:10:12 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-12 14:10:13 | Gráfico guardado en: testing\EURUSD\plot_replica_EURUSD.png
+2026-05-12 14:10:14 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-12 14:10:14 | Gráfico guardado en: testing\EURUSD\plot_no_op_EURUSD.png
+2026-05-12 14:10:16 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-12 14:10:17 | Gráfico guardado en: testing\EURUSD\plot_no_panic_EURUSD.png
+2026-05-12 14:10:17 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-12 14:10:18 | Gráfico guardado en: testing\EURUSD\plot_basic_EURUSD.png
+2026-05-12 14:58:49 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-12 14:58:49 | Gráfico guardado en: testing\EURCAD\plot_replica_EURCAD.png
+2026-05-12 14:58:50 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-12 14:58:50 | Gráfico guardado en: testing\EURCAD\plot_no_op_EURCAD.png
+2026-05-12 14:58:51 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-12 14:58:51 | Gráfico guardado en: testing\EURCAD\plot_no_panic_EURCAD.png
+2026-05-12 14:58:52 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-12 14:58:53 | Gráfico guardado en: testing\EURCAD\plot_basic_EURCAD.png
+2026-05-13 23:24:36 | 
+Procesando: price_records_EURCAD.csv
+2026-05-13 23:24:36 | Estrategia Réplica: price_records_EURCAD.csv
+2026-05-13 23:24:36 |   Win rate estimado: 0.00%
+2026-05-13 23:24:36 |   W/L estimado:      1.00
+2026-05-13 23:24:36 |   Kelly stake:       10.00%
+2026-05-13 23:24:36 |   Caja final:        $900,000.00
+2026-05-13 23:24:36 |   Posición final:    62282
+2026-05-13 23:24:36 |   Equity final:      $999,998.44
+2026-05-13 23:24:36 |   PnL:               $-1.56
+2026-05-13 23:24:36 |   Trades:            0
+2026-05-13 23:24:37 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-13 23:24:37 | Gráfico guardado en: testing\EURCAD\plot_replica_EURCAD.png
+2026-05-13 23:24:37 | 
+Procesando: price_records_EURCAD.csv
+2026-05-13 23:24:37 | Estrategia Sin Oportunidad: price_records_EURCAD.csv
+2026-05-13 23:24:37 |   Win rate estimado: 0.00%
+2026-05-13 23:24:37 |   W/L estimado:      1.00
+2026-05-13 23:24:37 |   Kelly stake:       10.00%
+2026-05-13 23:24:37 |   Caja final:        $810,000.00
+2026-05-13 23:24:37 |   Posición final:    118338
+2026-05-13 23:24:37 |   Equity final:      $999,998.44
+2026-05-13 23:24:37 |   PnL:               $-1.56
+2026-05-13 23:24:37 |   Trades:            0
+2026-05-13 23:24:38 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-13 23:24:38 | Gráfico guardado en: testing\EURCAD\plot_no_op_EURCAD.png
+2026-05-13 23:24:38 | 
+Procesando: price_records_EURCAD.csv
+2026-05-13 23:24:38 | Estrategia Sin Pánico: price_records_EURCAD.csv
+2026-05-13 23:24:38 |   Win rate estimado: 0.00%
+2026-05-13 23:24:38 |   W/L estimado:      1.00
+2026-05-13 23:24:38 |   Kelly stake:       10.00%
+2026-05-13 23:24:38 |   Caja final:        $729,000.00
+2026-05-13 23:24:38 |   Posición final:    168783
+2026-05-13 23:24:38 |   Equity final:      $999,990.81
+2026-05-13 23:24:38 |   PnL:               $-9.19
+2026-05-13 23:24:38 |   Trades:            0
+2026-05-13 23:24:39 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-13 23:24:39 | Gráfico guardado en: testing\EURCAD\plot_no_panic_EURCAD.png
+2026-05-13 23:24:39 | 
+Procesando: price_records_EURCAD.csv
+2026-05-13 23:24:39 | Estrategia Básica: price_records_EURCAD.csv
+2026-05-13 23:24:39 |   Win rate estimado: 0.00%
+2026-05-13 23:24:39 |   W/L estimado:      1.00
+2026-05-13 23:24:39 |   Kelly stake:       10.00%
+2026-05-13 23:24:39 |   Caja final:        $810,000.00
+2026-05-13 23:24:39 |   Posición final:    118338
+2026-05-13 23:24:39 |   Equity final:      $999,998.44
+2026-05-13 23:24:39 |   PnL:               $-1.56
+2026-05-13 23:24:39 |   Trades:            0
+2026-05-13 23:24:40 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-13 23:24:40 | Gráfico guardado en: testing\EURCAD\plot_basic_EURCAD.png
+2026-05-14 10:07:39 | 
+Procesando: price_records_EURCAD.csv
+2026-05-14 10:07:39 | Estrategia Réplica: price_records_EURCAD.csv
+2026-05-14 10:07:39 |   Win rate estimado: 0.00%
+2026-05-14 10:07:39 |   W/L estimado:      1.00
+2026-05-14 10:07:39 |   Kelly stake:       10.00%
+2026-05-14 10:07:39 |   Caja final:        $1,000,000.00
+2026-05-14 10:07:39 |   Posición final:    0
+2026-05-14 10:07:39 |   Equity final:      $1,000,000.00
+2026-05-14 10:07:39 |   PnL:               $0.00
+2026-05-14 10:07:39 |   Trades:            0
+2026-05-14 10:07:40 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-14 10:07:40 | Gráfico guardado en: testing\EURCAD\plot_replica_EURCAD.png
+2026-05-14 10:07:40 | 
+Procesando: price_records_EURCAD.csv
+2026-05-14 10:07:40 | Estrategia Sin Oportunidad: price_records_EURCAD.csv
+2026-05-14 10:07:40 |   Win rate estimado: 0.00%
+2026-05-14 10:07:40 |   W/L estimado:      1.00
+2026-05-14 10:07:40 |   Kelly stake:       10.00%
+2026-05-14 10:07:40 |   Caja final:        $1,000,000.00
+2026-05-14 10:07:40 |   Posición final:    0
+2026-05-14 10:07:40 |   Equity final:      $1,000,000.00
+2026-05-14 10:07:40 |   PnL:               $0.00
+2026-05-14 10:07:40 |   Trades:            0
+2026-05-14 10:07:41 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-14 10:07:41 | Gráfico guardado en: testing\EURCAD\plot_no_op_EURCAD.png
+2026-05-14 10:07:41 | 
+Procesando: price_records_EURCAD.csv
+2026-05-14 10:07:41 | Estrategia Sin Pánico: price_records_EURCAD.csv
+2026-05-14 10:07:41 |   Win rate estimado: 72.73%
+2026-05-14 10:07:41 |   W/L estimado:      3.10
+2026-05-14 10:07:41 |   Kelly stake:       10.00%
+2026-05-14 10:07:41 |   Caja final:        $729,044.94
+2026-05-14 10:07:41 |   Posición final:    168789
+2026-05-14 10:07:41 |   Equity final:      $999,960.75
+2026-05-14 10:07:41 |   PnL:               $-39.25
+2026-05-14 10:07:41 |   Trades:            22
+2026-05-14 10:07:43 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-14 10:07:44 | Gráfico guardado en: testing\EURCAD\plot_no_panic_EURCAD.png
+2026-05-14 10:07:44 | 
+Procesando: price_records_EURCAD.csv
+2026-05-14 10:07:44 | Estrategia Básica: price_records_EURCAD.csv
+2026-05-14 10:07:44 |   Win rate estimado: 0.00%
+2026-05-14 10:07:44 |   W/L estimado:      1.00
+2026-05-14 10:07:44 |   Kelly stake:       10.00%
+2026-05-14 10:07:44 |   Caja final:        $1,000,000.00
+2026-05-14 10:07:44 |   Posición final:    0
+2026-05-14 10:07:44 |   Equity final:      $1,000,000.00
+2026-05-14 10:07:44 |   PnL:               $0.00
+2026-05-14 10:07:44 |   Trades:            0
+2026-05-14 10:07:45 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-14 10:07:45 | Gráfico guardado en: testing\EURCAD\plot_basic_EURCAD.png
