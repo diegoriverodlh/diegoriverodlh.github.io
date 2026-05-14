@@ -1,6 +1,6 @@
 @echo off
 
-cd /d "C:\Users\diego\Documents\Documents\Colegio\5.UNIVERSIDAD\4.CUARTO\Trabajo FIn de Grado\TFG"
+cd /d "C:\Users\diego\Documents\Documents\Colegio\5.UNIVERSIDAD\4.CUARTO\TFG"
 
 echo =========================
 echo Actualizando repositorio
