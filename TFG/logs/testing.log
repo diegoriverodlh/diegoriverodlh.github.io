@@ -222,3 +222,194 @@ Procesando: price_records_EURCAD.csv
 2026-05-22 19:04:12 |   Trades:            4
 2026-05-22 19:04:25 | ✅ Archivos guardados en: testing\EURCAD
 2026-05-22 19:04:36 | Gráfico guardado en: testing\EURCAD\plot_basic_EURCAD.png
+2026-05-23 11:50:55 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:50:55 | Estrategia Réplica: price_records_EURCAD.csv
+2026-05-23 11:50:55 |   Win rate estimado: 42.86%
+2026-05-23 11:50:55 |   W/L estimado:      1.10
+2026-05-23 11:50:55 |   Kelly stake:       10.00%
+2026-05-23 11:50:55 |   Caja final:        $999,940.12
+2026-05-23 11:50:55 |   Posición final:    0
+2026-05-23 11:50:55 |   Equity final:      $999,940.12
+2026-05-23 11:50:55 |   PnL:               $-59.88
+2026-05-23 11:50:55 |   Trades:            7
+2026-05-23 11:51:25 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:51:25 | Estrategia Réplica: price_records_EURCAD.csv
+2026-05-23 11:51:25 |   Win rate estimado: 42.86%
+2026-05-23 11:51:25 |   W/L estimado:      1.10
+2026-05-23 11:51:25 |   Kelly stake:       10.00%
+2026-05-23 11:51:25 |   Caja final:        $999,940.12
+2026-05-23 11:51:25 |   Posición final:    0
+2026-05-23 11:51:25 |   Equity final:      $999,940.12
+2026-05-23 11:51:25 |   PnL:               $-59.88
+2026-05-23 11:51:25 |   Trades:            7
+2026-05-23 11:51:27 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-23 11:51:28 | Gráfico guardado en: testing\EURCAD\plot_replica_EURCAD.png
+2026-05-23 11:51:28 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:51:28 | Estrategia Sin Oportunidad: price_records_EURCAD.csv
+2026-05-23 11:51:28 |   Win rate estimado: 80.00%
+2026-05-23 11:51:28 |   W/L estimado:      0.63
+2026-05-23 11:51:28 |   Kelly stake:       10.00%
+2026-05-23 11:51:28 |   Caja final:        $1,000,006.86
+2026-05-23 11:51:28 |   Posición final:    0
+2026-05-23 11:51:28 |   Equity final:      $1,000,006.86
+2026-05-23 11:51:28 |   PnL:               $6.86
+2026-05-23 11:51:28 |   Trades:            5
+2026-05-23 11:52:52 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:52:52 | Estrategia Réplica: price_records_EURCAD.csv
+2026-05-23 11:52:52 |   Win rate estimado: 42.86%
+2026-05-23 11:52:52 |   W/L estimado:      1.10
+2026-05-23 11:52:52 |   Kelly stake:       10.00%
+2026-05-23 11:52:52 |   Caja final:        $999,940.12
+2026-05-23 11:52:52 |   Posición final:    0
+2026-05-23 11:52:52 |   Equity final:      $999,940.12
+2026-05-23 11:52:52 |   PnL:               $-59.88
+2026-05-23 11:52:52 |   Trades:            7
+2026-05-23 11:52:53 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-23 11:52:54 | Gráfico guardado en: testing\EURCAD\plot_replica_EURCAD.png
+2026-05-23 11:52:54 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:52:54 | Estrategia Sin Oportunidad: price_records_EURCAD.csv
+2026-05-23 11:52:54 |   Win rate estimado: 80.00%
+2026-05-23 11:52:54 |   W/L estimado:      0.63
+2026-05-23 11:52:54 |   Kelly stake:       10.00%
+2026-05-23 11:52:54 |   Caja final:        $1,000,006.86
+2026-05-23 11:52:54 |   Posición final:    0
+2026-05-23 11:52:54 |   Equity final:      $1,000,006.86
+2026-05-23 11:52:54 |   PnL:               $6.86
+2026-05-23 11:52:54 |   Trades:            5
+2026-05-23 11:52:55 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-23 11:52:56 | Gráfico guardado en: testing\EURCAD\plot_no_op_EURCAD.png
+2026-05-23 11:52:56 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:52:56 | Estrategia Sin Pánico: price_records_EURCAD.csv
+2026-05-23 11:52:56 |   Win rate estimado: 83.33%
+2026-05-23 11:52:56 |   W/L estimado:      7.50
+2026-05-23 11:52:56 |   Kelly stake:       10.00%
+2026-05-23 11:52:56 |   Caja final:        $900,134.69
+2026-05-23 11:52:56 |   Posición final:    62367
+2026-05-23 11:52:56 |   Equity final:      $1,000,149.65
+2026-05-23 11:52:56 |   PnL:               $149.65
+2026-05-23 11:52:56 |   Trades:            24
+2026-05-23 11:52:59 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-23 11:53:00 | Gráfico guardado en: testing\EURCAD\plot_no_panic_EURCAD.png
+2026-05-23 11:53:00 | 
+Procesando: price_records_EURCAD.csv
+2026-05-23 11:53:00 | Estrategia Básica: price_records_EURCAD.csv
+2026-05-23 11:53:00 |   Win rate estimado: 100.00%
+2026-05-23 11:53:00 |   W/L estimado:      1.00
+2026-05-23 11:53:00 |   Kelly stake:       10.00%
+2026-05-23 11:53:00 |   Caja final:        $1,000,021.21
+2026-05-23 11:53:00 |   Posición final:    0
+2026-05-23 11:53:00 |   Equity final:      $1,000,021.21
+2026-05-23 11:53:00 |   PnL:               $21.21
+2026-05-23 11:53:00 |   Trades:            4
+2026-05-23 11:53:02 | ✅ Archivos guardados en: testing\EURCAD
+2026-05-23 11:53:03 | Gráfico guardado en: testing\EURCAD\plot_basic_EURCAD.png
+2026-05-26 19:02:14 | 
+Procesando: price_records_USDCAD.csv
+2026-05-26 19:02:14 | Estrategia Réplica: price_records_USDCAD.csv
+2026-05-26 19:02:14 |   Win rate estimado: 50.00%
+2026-05-26 19:02:14 |   W/L estimado:      0.26
+2026-05-26 19:02:14 |   Kelly stake:       10.00%
+2026-05-26 19:02:14 |   Caja final:        $999,937.92
+2026-05-26 19:02:14 |   Posición final:    0
+2026-05-26 19:02:14 |   Equity final:      $999,937.92
+2026-05-26 19:02:14 |   PnL:               $-62.08
+2026-05-26 19:02:14 |   Trades:            4
+2026-05-26 19:02:15 | ✅ Archivos guardados en: testing\USDCAD
+2026-05-26 19:02:16 | Gráfico guardado en: testing\USDCAD\plot_replica_USDCAD.png
+2026-05-26 19:02:16 | 
+Procesando: price_records_USDCAD.csv
+2026-05-26 19:02:16 | Estrategia Sin Oportunidad: price_records_USDCAD.csv
+2026-05-26 19:02:16 |   Win rate estimado: 68.18%
+2026-05-26 19:02:16 |   W/L estimado:      1.07
+2026-05-26 19:02:16 |   Kelly stake:       10.00%
+2026-05-26 19:02:16 |   Caja final:        $1,000,025.90
+2026-05-26 19:02:16 |   Posición final:    0
+2026-05-26 19:02:16 |   Equity final:      $1,000,025.90
+2026-05-26 19:02:16 |   PnL:               $25.90
+2026-05-26 19:02:16 |   Trades:            22
+2026-05-26 19:02:20 | ✅ Archivos guardados en: testing\USDCAD
+2026-05-26 19:02:22 | Gráfico guardado en: testing\USDCAD\plot_no_op_USDCAD.png
+2026-05-26 19:02:22 | 
+Procesando: price_records_USDCAD.csv
+2026-05-26 19:02:22 | Estrategia Sin Pánico: price_records_USDCAD.csv
+2026-05-26 19:02:22 |   Win rate estimado: 81.25%
+2026-05-26 19:02:22 |   W/L estimado:      2.49
+2026-05-26 19:02:22 |   Kelly stake:       10.00%
+2026-05-26 19:02:22 |   Caja final:        $810,109.03
+2026-05-26 19:02:22 |   Posición final:    137503
+2026-05-26 19:02:22 |   Equity final:      $1,000,090.82
+2026-05-26 19:02:22 |   PnL:               $90.82
+2026-05-26 19:02:22 |   Trades:            32
+2026-05-26 19:02:29 | ✅ Archivos guardados en: testing\USDCAD
+2026-05-26 19:02:30 | Gráfico guardado en: testing\USDCAD\plot_no_panic_USDCAD.png
+2026-05-26 19:02:30 | 
+Procesando: price_records_USDCAD.csv
+2026-05-26 19:02:30 | Estrategia Básica: price_records_USDCAD.csv
+2026-05-26 19:02:30 |   Win rate estimado: 90.00%
+2026-05-26 19:02:30 |   W/L estimado:      3.57
+2026-05-26 19:02:30 |   Kelly stake:       10.00%
+2026-05-26 19:02:30 |   Caja final:        $1,000,061.92
+2026-05-26 19:02:30 |   Posición final:    0
+2026-05-26 19:02:30 |   Equity final:      $1,000,061.92
+2026-05-26 19:02:30 |   PnL:               $61.92
+2026-05-26 19:02:30 |   Trades:            10
+2026-05-26 19:02:32 | ✅ Archivos guardados en: testing\USDCAD
+2026-05-26 19:02:32 | Gráfico guardado en: testing\USDCAD\plot_basic_USDCAD.png
+2026-05-26 19:23:28 | 
+Procesando: price_records_EURUSD.csv
+2026-05-26 19:23:28 | Estrategia Réplica: price_records_EURUSD.csv
+2026-05-26 19:23:28 |   Win rate estimado: 0.00%
+2026-05-26 19:23:28 |   W/L estimado:      1.00
+2026-05-26 19:23:28 |   Kelly stake:       10.00%
+2026-05-26 19:23:28 |   Caja final:        $1,000,000.00
+2026-05-26 19:23:28 |   Posición final:    0
+2026-05-26 19:23:28 |   Equity final:      $1,000,000.00
+2026-05-26 19:23:28 |   PnL:               $0.00
+2026-05-26 19:23:28 |   Trades:            0
+2026-05-26 19:23:29 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-26 19:23:30 | Gráfico guardado en: testing\EURUSD\plot_replica_EURUSD.png
+2026-05-26 19:23:30 | 
+Procesando: price_records_EURUSD.csv
+2026-05-26 19:23:30 | Estrategia Sin Oportunidad: price_records_EURUSD.csv
+2026-05-26 19:23:30 |   Win rate estimado: 64.71%
+2026-05-26 19:23:30 |   W/L estimado:      2.37
+2026-05-26 19:23:30 |   Kelly stake:       10.00%
+2026-05-26 19:23:30 |   Caja final:        $1,000,082.31
+2026-05-26 19:23:30 |   Posición final:    0
+2026-05-26 19:23:30 |   Equity final:      $1,000,082.31
+2026-05-26 19:23:30 |   PnL:               $82.31
+2026-05-26 19:23:30 |   Trades:            17
+2026-05-26 19:23:32 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-26 19:23:34 | Gráfico guardado en: testing\EURUSD\plot_no_op_EURUSD.png
+2026-05-26 19:23:34 | 
+Procesando: price_records_EURUSD.csv
+2026-05-26 19:23:34 | Estrategia Sin Pánico: price_records_EURUSD.csv
+2026-05-26 19:23:34 |   Win rate estimado: 71.88%
+2026-05-26 19:23:34 |   W/L estimado:      2.30
+2026-05-26 19:23:34 |   Kelly stake:       10.00%
+2026-05-26 19:23:34 |   Caja final:        $900,128.71
+2026-05-26 19:23:34 |   Posición final:    86166
+2026-05-26 19:23:34 |   Equity final:      $1,000,143.01
+2026-05-26 19:23:34 |   PnL:               $143.01
+2026-05-26 19:23:34 |   Trades:            32
+2026-05-26 19:23:37 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-26 19:23:40 | Gráfico guardado en: testing\EURUSD\plot_no_panic_EURUSD.png
+2026-05-26 19:23:40 | 
+Procesando: price_records_EURUSD.csv
+2026-05-26 19:23:40 | Estrategia Básica: price_records_EURUSD.csv
+2026-05-26 19:23:40 |   Win rate estimado: 71.43%
+2026-05-26 19:23:40 |   W/L estimado:      18.53
+2026-05-26 19:23:40 |   Kelly stake:       10.00%
+2026-05-26 19:23:40 |   Caja final:        $1,000,081.94
+2026-05-26 19:23:40 |   Posición final:    0
+2026-05-26 19:23:40 |   Equity final:      $1,000,081.94
+2026-05-26 19:23:40 |   PnL:               $81.94
+2026-05-26 19:23:40 |   Trades:            14
+2026-05-26 19:23:41 | ✅ Archivos guardados en: testing\EURUSD
+2026-05-26 19:23:43 | Gráfico guardado en: testing\EURUSD\plot_basic_EURUSD.png
