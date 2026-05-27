@@ -3,84 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trading TFG</title>
+  <title>Trading TFG - Diego Rivero</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <header>
     <h1>Trading TFG</h1>
-    <p>Sistema de trading algorítmico y análisis financiero</p>
-
-    <a href="https://github.com/diegoriverodlh/diegoriverodlh.github.io" target="_blank">
-      Ver repositorio
-    </a>
+    <p class="subtitle">Sistema de trading algorítmico y análisis financiero</p>
+    <a href="https://github.com/diegoriverodlh/diegoriverodlh.github.io" target="_blank" class="btn-repo">Ver repositorio</a>
   </header>
 
-  <section>
-    <h2>Sobre el proyecto</h2>
-    <p>Desarrollo y evaluación de un sistema de trading mediante algoritmo High-Low automatizado
+  <main>
+    <section>
+      <h2>Sobre el proyecto</h2>
+      <div class="content-split">
+        <div class="lang-box">
+          <h3>Español</h3>
+          <p>Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin de Grado (TFG) del Grado en Ingeniería y Sistemas de Datos de la ETSIT (UPM). El proyecto se centra en el diseño, desarrollo y validación de un sistema automatizado de negociación de activos financieros...</p>
+        </div>
+        <div class="lang-box">
+          <h3>English</h3>
+          <p>This repository contains the source code developed for the Bachelor's Thesis (TFG) for the Bachelor’s Degree in Data Engineering and Systems at the ETSIT (UPM). The project focuses on the design, development, and validation of an automated financial asset trading system...</p>
+        </div>
+      </div>
+    </section>
 
-Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin de Grado (TFG) del Grado en Ingeniería y Sistemas de Datos de la Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT) de la Universidad Politécnica de Madrid (UPM).
-Descripción del Proyecto
-El proyecto se centra en el diseño, desarrollo y validación de un sistema automatizado de negociación de activos financieros. El sistema implementa una estrategia basada en la metodología High-Low, optimizada para operar en entornos de alta volatilidad mediante la integración de criterios matemáticos avanzados de gestión de riesgos y lógica computacional.
+    <section>
+      <h2>Tecnologías</h2>
+      <ul class="tech-grid">
+        <li><span>🐍</span> Python</li>
+        <li><span>📊</span> Pandas</li>
+        <li><span>🔄</span> Backtesting</li>
+        <li><span>🤖</span> Machine Learning</li>
+      </ul>
+    </section>
 
-Características Principales
-Estrategia Algorítmica: Implementación de la estrategia High-Low para la detección precisa de puntos de inflexión en el mercado.
-Gestión Profesional de Riesgos: Aplicación del Criterio de Kelly fraccionado para la optimización de la asignación de capital.
-Adaptabilidad Dinámica: Uso del indicador Average True Range (ATR) para ajustar las bandas de negociación a la volatilidad histórica del activo.
-Conectividad: Integración con la API de Interactive Brokers para la ejecución de órdenes bajo condiciones de mercado.
-Estudio de Ablación: Análisis experimental incluido para medir la robustez de las reglas lógicas mediante la desactivación secuencial de módulos críticos.
-
-
- Autor
-Diego Rivero de la Hoz Grado en Ingeniería y Sistemas de Datos  
-Universidad Politécnica de Madrid
-
- Licencia
-Este proyecto es de carácter académico.
-
-
- Development and evaluation of an automated High-Low algorithm trading system
-This repository contains the source code developed for the Bachelor's Thesis (TFG) for the Bachelor’s Degree in Data Engineering and Systems at the Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT) of the Universidad Politécnica de Madrid (UPM).
-
- Project Description
-The project focuses on the design, development, and validation of an automated financial asset trading system. The system implements a strategy based on the High-Low methodology, optimized to operate in high-volatility environments through the integration of advanced mathematical risk management criteria and computational logic.
-
- Key Features
-Algorithmic Strategy: Implementation of the High-Low strategy for the precise detection of market inflection points.
-
-Professional Risk Management: Application of the fractional Kelly Criterion for optimal capital allocation.
-
-Dynamic Adaptability: Use of the Average True Range (ATR) indicator to adjust trading bands to the asset's historical volatility.
-
-Connectivity: Integration with the Interactive Brokers API for order execution under live market conditions.
-
-Ablation Study: Experimental analysis included to measure the robustness of the logical rules by sequentially disabling critical modules.
-
- Author
-Diego Rivero de la Hoz Bachelor's Degree in Data Engineering and Systems
-
-Universidad Politécnica de Madrid
-    </p>
-  </section>
-
-  <section>
-    <h2>Tecnologías</h2>
-
-    <ul>
-      <li>Python</li>
-      <li>Pandas</li>
-      <li>Backtesting</li>
-      <li>Machine Learning</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Resultados</h2>
-
-    <img src="TFG/testing/EURCAD/plot_replica_EURCAD.png" alt="Dashboard">
-  </section>
+    <section>
+      <h2>Resultados</h2>
+      <div class="img-container">
+        <img src="TFG/testing/EURCAD/plot_replica_EURCAD.png" alt="Dashboard de resultados del sistema de trading">
+        <p class="img-caption">Figura: Visualización del rendimiento del modelo (EURCAD)</p>
+      </div>
+    </section>
+  </main>
 
 </body>
 </html>
