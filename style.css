@@ -1,28 +1,47 @@
-body {
-  font-family: 'Segoe UI', Arial, sans-serif; /* Tipografía más moderna */
-  background: #0f172a;
-  color: #e2e8f0; /* Blanco suavizado para menos fatiga visual */
-  line-height: 1.6;
-  margin: 0;
+/* Reset y variables */
+* { box-sizing: border-box; }
+body { 
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0b0e14; 
+    color: #cbd5e1; 
+    line-height: 1.6;
+    margin: 0;
 }
 
-header { padding: 60px 20px; text-align: center; background: #1e293b; }
-h1 { margin-bottom: 0; font-size: 2.5rem; }
-.subtitle { color: #94a3b8; font-size: 1.2rem; }
+/* Header */
+.hero { 
+    padding: 100px 20px; 
+    text-align: center; 
+    background: linear-gradient(180deg, #1e293b 0%, #0b0e14 100%);
+}
+h1 { font-size: 3rem; color: #ffffff; margin-bottom: 0.5rem; }
+.tagline { color: #64748b; font-size: 1.25rem; }
 
-section { max-width: 1000px; margin: auto; padding: 40px 20px; }
-h2 { border-bottom: 2px solid #38bdf8; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; }
+.cta-button { 
+    display: inline-block; margin-top: 20px; padding: 12px 30px; 
+    background: #3b82f6; color: white; text-decoration: none; 
+    border-radius: 8px; font-weight: 600; transition: 0.3s;
+}
+.cta-button:hover { background: #2563eb; }
 
-/* Legibilidad: dividir en dos columnas o bloques */
-.content-split { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; text-align: justify; }
+/* Contenedor principal */
+.container { max-width: 900px; margin: auto; padding: 40px 20px; }
+h2 { color: #f8fafc; border-left: 4px solid #3b82f6; padding-left: 15px; margin-top: 50px; }
 
-/* Estilo para las tecnologías */
-.tech-grid { display: flex; list-style: none; gap: 20px; padding: 0; }
-.tech-grid li { background: #1e293b; padding: 10px 20px; border-radius: 8px; border: 1px solid #334155; }
+/* Grid de contenido */
+.grid-content { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
 
-/* Imagen profesional */
-.img-container { text-align: center; }
-.img-container img { width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); border: 2px solid #1e293b; }
-.img-caption { color: #94a3b8; font-style: italic; margin-top: 10px; }
+/* Tecnologías */
+.tech-stack { display: flex; gap: 15px; margin-top: 20px; }
+.tech-stack span { 
+    background: #1e293b; padding: 8px 16px; border-radius: 20px; 
+    border: 1px solid #334155; font-size: 0.9rem; 
+}
 
-.btn-repo { display: inline-block; margin-top: 20px; padding: 10px 25px; background: #38bdf8; color: #0f172a; text-decoration: none; border-radius: 6px; font-weight: bold; }
+/* Imagen */
+.dashboard-preview { margin-top: 30px; text-align: center; }
+.dashboard-preview img { 
+    width: 100%; border-radius: 12px; 
+    border: 1px solid #1e293b; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
+}
+figcaption { color: #64748b; font-style: italic; margin-top: 10px; }
