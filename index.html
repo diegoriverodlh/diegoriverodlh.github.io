@@ -3,48 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trading TFG - Diego Rivero</title>
+  <title>Trading TFG | Diego Rivero</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header>
+  <header class="hero">
     <h1>Trading TFG</h1>
-    <p class="subtitle">Sistema de trading algorítmico y análisis financiero</p>
-    <a href="https://github.com/diegoriverodlh/diegoriverodlh.github.io" target="_blank" class="btn-repo">Ver repositorio</a>
+    <p class="tagline">Sistema de trading algorítmico y análisis financiero</p>
+    <a href="https://github.com/diegoriverodlh/diegoriverodlh.github.io" class="cta-button" target="_blank">Ver repositorio en GitHub</a>
   </header>
 
-  <main>
-    <section>
+  <main class="container">
+    <section id="proyecto">
       <h2>Sobre el proyecto</h2>
-      <div class="content-split">
-        <div class="lang-box">
-          <h3>Español</h3>
-          <p>Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin de Grado (TFG) del Grado en Ingeniería y Sistemas de Datos de la ETSIT (UPM). El proyecto se centra en el diseño, desarrollo y validación de un sistema automatizado de negociación de activos financieros...</p>
-        </div>
-        <div class="lang-box">
-          <h3>English</h3>
-          <p>This repository contains the source code developed for the Bachelor's Thesis (TFG) for the Bachelor’s Degree in Data Engineering and Systems at the ETSIT (UPM). The project focuses on the design, development, and validation of an automated financial asset trading system...</p>
-        </div>
+      <div class="grid-content">
+        <article>
+          <h3>Descripción</h3>
+          <p>Desarrollo y evaluación de un sistema de trading automatizado basado en la metodología <strong>High-Low</strong>, optimizado para entornos de alta volatilidad. Implementado para el Grado en Ingeniería y Sistemas de Datos (UPM).</p>
+        </article>
+        <article>
+          <h3>Características clave</h3>
+          <ul>
+            <li>Estrategia High-Low para detección de puntos de inflexión.</li>
+            <li>Gestión de riesgos mediante Criterio de Kelly fraccionado.</li>
+            <li>Adaptabilidad dinámica con indicador ATR.</li>
+            <li>Integración con API de Interactive Brokers.</li>
+          </ul>
+        </article>
       </div>
     </section>
 
-    <section>
+    <section id="tecnologias">
       <h2>Tecnologías</h2>
-      <ul class="tech-grid">
-        <li><span>🐍</span> Python</li>
-        <li><span>📊</span> Pandas</li>
-        <li><span>🔄</span> Backtesting</li>
-        <li><span>🤖</span> Machine Learning</li>
-      </ul>
+      <div class="tech-stack">
+        <span>Python</span> <span>Pandas</span> <span>Backtesting</span> <span>Machine Learning</span>
+      </div>
     </section>
 
-    <section>
+    <section id="resultados">
       <h2>Resultados</h2>
-      <div class="img-container">
-        <img src="TFG/testing/EURCAD/plot_replica_EURCAD.png" alt="Dashboard de resultados del sistema de trading">
-        <p class="img-caption">Figura: Visualización del rendimiento del modelo (EURCAD)</p>
-      </div>
+      <figure class="dashboard-preview">
+        <img src="TFG/testing/EURCAD/plot_replica_EURCAD.png" alt="Dashboard de trading">
+        <figcaption>Visualización del modelo de trading sobre EURCAD</figcaption>
+      </figure>
     </section>
   </main>
 
