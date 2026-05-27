@@ -16,8 +16,19 @@ body {
     background: linear-gradient(180deg, #1e293b 0%, #0b0e14 100%);
 }
 
-h1 { font-size: 2.8rem; color: #ffffff; margin-bottom: 0.5rem; }
-.tagline { color: #64748b; font-size: 1.2rem; margin-bottom: 20px; }
+h1 { 
+    font-size: 3rem; 
+    color: #ffffff; 
+    margin-bottom: 0.5rem; 
+}
+
+.tagline { 
+    color: #ffffff;      /* Blanco */
+    font-size: 1.8rem;   /* Más grande */
+    font-weight: 600;    /* Peso visual */
+    margin-bottom: 30px; 
+    line-height: 1.2;
+}
 
 .cta-button { 
     display: inline-block; padding: 12px 30px; 
@@ -26,33 +37,24 @@ h1 { font-size: 2.8rem; color: #ffffff; margin-bottom: 0.5rem; }
 }
 .cta-button:hover { background: #2563eb; }
 
-/* Contenedor principal: Ampliado a 1200px para el grid bilingüe */
+/* Contenedor principal */
 .container { max-width: 1200px; margin: auto; padding: 40px 20px; }
 
 h2 { color: #f8fafc; border-left: 4px solid #3b82f6; padding-left: 15px; margin-top: 40px; }
 h3 { color: #e2e8f0; margin-top: 25px; }
 
 /* Grid para columnas paralelas */
-
-.tagline { 
-    color: #ffffff; /* CAMBIO: Blanco para mayor contraste */
-    font-size: 1.2rem; 
-    margin-bottom: 20px; 
-}
-
-/* Forzar que el grid siempre tenga 2 columnas iguales en escritorio */
 .lang-grid { 
     display: grid; 
-    grid-template-columns: 1fr 1fr; /* Forzar 50% y 50% */
+    grid-template-columns: 1fr 1fr; 
     gap: 60px; 
     align-items: start;
     width: 100%;
 }
 
-/* Asegurar que las columnas ocupen el espacio asignado */
 .lang-col { 
     text-align: justify; 
-    min-width: 0; /* Esto evita que el texto se salga de la columna */
+    min-width: 0; 
 }
 
 /* Tecnologías */
@@ -70,8 +72,7 @@ h3 { color: #e2e8f0; margin-top: 25px; }
 }
 figcaption { color: #64748b; font-style: italic; margin-top: 15px; }
 
-/* Responsividad para móviles */
+/* Responsividad */
 @media (max-width: 900px) { 
     .lang-grid { grid-template-columns: 1fr; gap: 30px; } 
-    .container { max-width: 900px; }
 }
