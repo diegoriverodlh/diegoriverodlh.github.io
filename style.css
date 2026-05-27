@@ -1,23 +1,28 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif; /* Tipografía más moderna */
   background: #0f172a;
-  color: white;
+  color: #e2e8f0; /* Blanco suavizado para menos fatiga visual */
+  line-height: 1.6;
   margin: 0;
-  padding: 0;
 }
 
-header {
-  padding: 80px 20px;
-  text-align: center;
-}
+header { padding: 60px 20px; text-align: center; background: #1e293b; }
+h1 { margin-bottom: 0; font-size: 2.5rem; }
+.subtitle { color: #94a3b8; font-size: 1.2rem; }
 
-section {
-  max-width: 900px;
-  margin: auto;
-  padding: 40px 20px;
-}
+section { max-width: 1000px; margin: auto; padding: 40px 20px; }
+h2 { border-bottom: 2px solid #38bdf8; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; }
 
-img {
-  width: 100%;
-  border-radius: 10px;
-}
+/* Legibilidad: dividir en dos columnas o bloques */
+.content-split { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; text-align: justify; }
+
+/* Estilo para las tecnologías */
+.tech-grid { display: flex; list-style: none; gap: 20px; padding: 0; }
+.tech-grid li { background: #1e293b; padding: 10px 20px; border-radius: 8px; border: 1px solid #334155; }
+
+/* Imagen profesional */
+.img-container { text-align: center; }
+.img-container img { width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); border: 2px solid #1e293b; }
+.img-caption { color: #94a3b8; font-style: italic; margin-top: 10px; }
+
+.btn-repo { display: inline-block; margin-top: 20px; padding: 10px 25px; background: #38bdf8; color: #0f172a; text-decoration: none; border-radius: 6px; font-weight: bold; }
