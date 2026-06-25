@@ -20,6 +20,9 @@ Universidad Politécnica de Madrid
 ## Licencia
 Este proyecto es de carácter académico.
 
+## Nota
+9,5/10.
+
 
 # Development and evaluation of an automated High-Low algorithm trading system
 This repository contains the source code developed for the Bachelor's Thesis (TFG) for the Bachelor’s Degree in Data Engineering and Systems at the **Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT)** of the **Universidad Politécnica de Madrid (UPM)**.
@@ -45,3 +48,6 @@ Universidad Politécnica de Madrid
 
 ## License
 This project is for academic purposes.
+
+## Grade
+9,5/10.
